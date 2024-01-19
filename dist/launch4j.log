@@ -1,0 +1,14 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\hashi\Documents\onewayanova.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\hashi\Documents\.
+Java min ver:	1.004.000
+Java max ver:	
+Bundled JRE(s):	D:\jre
+Check launcher:	D:\jre\bin\javaw.exe (OK)
+Launcher:	D:\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\hashi\Documents\onewayanova.exe"
+Args length:	47/32768 chars
+Exit code:	0
